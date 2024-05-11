@@ -4,7 +4,9 @@ Hello Everyone, I am Hunter Harkleroad and this is a repository for my Embedded 
 
 
 
+Link To Video of working Prototype:
 
+https://youtu.be/zTrkehrT0jc
 
 Links To libraries Used for the project:
 
