@@ -1,1 +1,1 @@
-Hello Everyone, this is just a repository for my Final Project in My Embedded Systems Class.
+Hello Everyone, I am Hunter Harkleroad and this is a repository for my Embedded Systems Final Project.
